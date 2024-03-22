@@ -1,1 +1,2 @@
 0.4.0
+poetry run python -m uvicorn private_gpt.main:app --reload --port 8001
